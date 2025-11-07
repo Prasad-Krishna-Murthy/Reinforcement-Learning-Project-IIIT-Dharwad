@@ -2,7 +2,7 @@
 A project showcasing an educational application with SLM using PPO and veRL
 
 # Task
-- Train a Small Language Model (SLM) as an intelligent tutoring assistant
+- Train a Small Language Model (SLM) **microsoft/DialoGPT-small** as an intelligent tutoring assistant
 - Answer student questions accurately with educational explanations
 - Adapt responses based on student level and question context
 - Improve response quality through Reinforcement Learning (PPO)
