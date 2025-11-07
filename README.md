@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Project-IIIT-Dharwad
 A project showcasing an educational application with SLM using PPO and veRL
 
-#Task
+# Task
 - Train a Small Language Model (SLM) as an intelligent tutoring assistant
 - Answer student questions accurately with educational explanations
 - Adapt responses based on student level and question context
